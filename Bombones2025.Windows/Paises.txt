@@ -21,9 +21,3 @@
 23|Islas Canarias
 24|España
 25|Albania
-27|Alaska
-28|Colombia
-29|Marruecos
-30|Guatemala
-31|Islandia
-32|Perú
