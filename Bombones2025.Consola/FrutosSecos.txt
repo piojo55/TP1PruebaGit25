@@ -1,0 +1,20 @@
+﻿1|Almendra
+2|Nuez
+3|Avellana
+4|Castaña
+5|Pistacho
+6|Maní
+7|Nuez de macadamia
+8|Anacardo
+9|Nuez pecana
+10|Semilla de girasol
+11|Semilla de calabaza
+12|Coco
+13|Piñón
+14|Nuez de Brasil
+15|Chía
+16|Lino
+17|Sésamo
+18|Castaña de cajú
+19|Haba de cacao
+20|Nuez moscada
